@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --check ."
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "prettier": "^3.0.0"
+  }
+}
