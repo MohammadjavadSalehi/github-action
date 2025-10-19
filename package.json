@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "format": "prettier --write ."
+    "format": "prettier --check ."
   },
   "devDependencies": {
     "jest": "^29.0.0",
